@@ -1,6 +1,6 @@
-# Python Exercises from Bootcamp - Python & Django
+# Python Exercises from 'Python Básico' - WoMakers Code - Mais Mulheres Tech
 
-- This repository contains Python exercises I completed during the Bootcamp - Python & Django, in which I was a scholarship recipient from Womakers Code.
+- This repository contains Python exercises I completed during the 'Python Básico' course.
 - Each list of exercises is organized into separate branches for better clarity and management.
 
 ## Branches
